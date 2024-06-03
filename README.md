@@ -1,2 +1,2 @@
 # File an Issue or Request a feature
-File an issue or request a feature
+Have an idea? Found a bug? Open an issue in this repository and we will take a look.
